@@ -1,0 +1,33 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color:rgb(255, 0, 0);
+    bottom: 0px;
+    width: 100%;
+    background-color: greenyellow;
+    line-height: 3;
+    text-align: center;
+}
+canvas
+{
+    border: 5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px rgb(45, 255, 150);
+}
+body
+{
+    background-image:url(https://i.ytimg.com/vi/r6lDdF5YBMQ/mqdefault.jpg);
+    background-size: cover;
+}
